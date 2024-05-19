@@ -28,3 +28,5 @@ pnpm seed
 ## Login in development/testing
 
 During development and testing, the api exposes the endpoint GET auth/dev-callback. Calling this will log you in as the user with the email `foo@bar.com` by setting the session cookie for that user.
+
+## working with co-players in oss meal team
